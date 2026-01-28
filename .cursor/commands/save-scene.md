@@ -25,10 +25,3 @@ Save the currently active scene in Unity.
 4. **Report to user:**
    - Inform user that the scene has been saved
    - Show the scene name that was saved
-
-## Notes
-
-- Always save scenes after making significant changes
-- Unity may prompt to save on close, but it's better to save explicitly
-- Scene must be loaded (not empty) to save
-- Save operations work in edit mode only

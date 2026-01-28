@@ -50,10 +50,3 @@ Standard Folders Setup:
 
 All standard folders are now in place.
 ```
-
-## Notes
-
-- Standard folders should exist in every Unity project
-- Use this when starting a new project or organizing an existing one
-- Folders are created empty - assets will be placed in them later
-- Follows Unity MCP workflow rules for folder organization

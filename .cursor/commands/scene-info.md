@@ -45,9 +45,3 @@ Scene Information:
   - Main Camera
   - GameManager
 ```
-
-## Notes
-
-- Scene info helps understand scene structure before modifications
-- Use this to verify scene state before operations
-- Large scenes may show summary information

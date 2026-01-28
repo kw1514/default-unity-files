@@ -28,10 +28,3 @@ Usage: `/load-scene <scene-name>`
 4. **Verify loading:**
    - Use `editor_state` to confirm the scene is now active
    - Report success to the user
-
-## Notes
-
-- Scenes can only be loaded when Unity is not in play mode
-- Scene names can be provided with or without `.unity` extension
-- If scene doesn't exist, suggest available scenes
-- Scene changes are not automatically saved - use `/save-scene` to save

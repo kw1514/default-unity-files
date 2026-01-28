@@ -46,10 +46,3 @@ Components:
 4. PlayerController (MonoBehaviour)
 5. Health (MonoBehaviour)
 ```
-
-## Notes
-
-- Shows all components in execution order
-- Useful for understanding GameObject setup
-- Helps identify what can be modified or removed
-- Use before adding/removing components

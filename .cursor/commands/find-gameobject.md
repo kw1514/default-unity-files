@@ -46,9 +46,3 @@ Found 2 GameObjects matching "Player":
    - Position: (0, 0, 0)
    - Components: Transform
 ```
-
-## Notes
-
-- Search is case-insensitive and supports partial matches
-- Shows all GameObjects matching the search term
-- Use this before modifying GameObjects to ensure you have the right one

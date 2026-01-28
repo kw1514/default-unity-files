@@ -52,10 +52,3 @@ UtilityTests (3 tests)
   - TestStringHelper
   - TestArrayHelper
 ```
-
-## Notes
-
-- Shows all tests available in the project
-- Helps understand test coverage
-- Use before running tests to see what will execute
-- Tests are organized by test class

@@ -2,14 +2,6 @@
 
 Clear the Unity console of all messages (errors, warnings, logs).
 
-## When to Use
-
-Use this command to:
-- Clear the Unity console
-- Remove old messages
-- Start with a clean console
-- Focus on new errors/warnings
-
 ## Tools Used
 
 - `execute_menu_item` tool - Execute Unity menu commands
@@ -31,13 +23,6 @@ Use this command to:
 3. **Report results:**
    - Inform user that console has been cleared
    - Note that new messages will appear as they occur
-
-## Notes
-
-- Clears all console messages (errors, warnings, logs)
-- Useful for focusing on new issues
-- Console will populate again as Unity generates messages
-- Some Unity versions may require specific menu paths
 
 ## Alternative Approach
 

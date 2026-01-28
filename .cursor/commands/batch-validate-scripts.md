@@ -57,10 +57,3 @@ Scripts with Errors:
    - 1 error
    - CS0116: Namespace cannot contain members
 ```
-
-## Notes
-
-- Validates all scripts in the project
-- Use this to ensure project compiles before building
-- Failed scripts should be fixed using `/fix-script-errors`
-- Large projects may take a moment to validate all scripts

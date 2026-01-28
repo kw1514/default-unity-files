@@ -49,10 +49,3 @@ Failed Tests:
 2. GameManagerTests.TestGameStart
    - Error: NullReferenceException
 ```
-
-## Notes
-
-- Tests run asynchronously - use `get_test_job` to check status
-- Check console for detailed test output
-- Failed tests should be investigated and fixed
-- Use `/test-status` to check status of running tests

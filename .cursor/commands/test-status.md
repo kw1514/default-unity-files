@@ -42,10 +42,3 @@ Results:
 - Failed: 2
 - Duration: 2.3s
 ```
-
-## Notes
-
-- Use this to check status without re-running tests
-- Tests run asynchronously, so status may show "Running"
-- Check console for detailed test output
-- Use `/run-tests` to execute tests if none are running
